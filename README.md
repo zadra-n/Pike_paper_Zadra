@@ -5,7 +5,7 @@ In some cases, the plots were edited using Inkscape.The editing mainly involved 
 
 # Data visualization
 ## PCAs
-* ```[PCA_combination_flaviae.R](https://github.com/zadra-n/Pike_paper_Zadra/blob/main/PCA_combination_flaviae.R)```
+* ``[PCA_combination_flaviae.R](https://github.com/zadra-n/Pike_paper_Zadra/blob/main/PCA_combination_flaviae.R)``
 * [PCA_combination_full.R](https://github.com/zadra-n/Pike_paper_Zadra/blob/main/PCA_combination_full.R)
 
 
