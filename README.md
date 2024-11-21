@@ -11,7 +11,11 @@ After calculating the eigenvec and the eigenval using PLIK2, the PCA were plotte
 * `PCA_combination_full.R` Plot the different combinations of Principal Component for the full dataset (62 samples)
 *  `PCA_combination_flaviae.R` Plot the different combinations of Principal Component for the datasets that compries only the _Esox flaviea_ samples
 
-# Structure using PopCluster
+## Structure using PopCluster
+
+## Sliding window analysis 
+
+## ROHs and heterozigosity
 
 
 
