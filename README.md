@@ -25,14 +25,15 @@ first script called
 
 `Rscript Best_K_input.R table_bestK "$output_name" "$out_dir"`
 
-then, it calls the following scripts for plotting 
+Then, it calls the following scripts for plotting. 
 
 `Rscript Best_K_input.R table_bestK "$output_name" "$out_dir" for plotting`
 `Plot_structure.R "$input_R"  /path_to_table/ID_luccio.csv "$out_dir"`
 
-the `read_file_k.sh` calls all the following scripts that need to be stored in the same folder
+The `read_file_k.sh` calls all the following scripts that need to be stored in the same folder
 
 ## Sliding window analysis 
+the following scripts can be found in the **`Sliding_w/`** folder
 
 * `sliding_windows_all.sh`: perform phylogenetic analysis using sliding windows across chromosomes from a VCF file. 
 ### Detailed description
