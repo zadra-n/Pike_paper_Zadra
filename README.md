@@ -54,6 +54,8 @@ the following scripts can be found in the **`Sliding_w/`** folder
 
 ## ROHs and heterozygosity
 
+This `RZooRoH_all.R` script is designed to analyze and visualize inbreeding coefficients and Runs of Homozygosity (ROH) in different populations using the RZooRoH package in R
+
 
 
 
