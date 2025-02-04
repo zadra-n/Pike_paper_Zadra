@@ -13,7 +13,7 @@ After calculating the eigenvec and the eigenval using PLIK2, the PCAs were plott
 
 ## Population Structure using PopCluster
 
-### Script Folder Usage Guide
+Script Folder **`PopCluster/`**
 
  The main script, `read_file_K.sh`, processes the `.K` file from PopCluster and generates outputs that are used by subsequent scripts for visualization.
 
